@@ -1,0 +1,279 @@
+[Event "Welcome to Chess.com!"]
+[Site "Chess.com"]
+[Date "2011.10.10"]
+[Round "-"]
+[White "eoghancrowley"]
+[Black "sode1"]
+[Result "0-1"]
+[WhiteElo "1200"]
+[BlackElo "958"]
+[TimeControl "1/259200"]
+[EndDate "2011.10.12"]
+[Termination "sode1 won on time"]
+
+1. e4 d5 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.11.27"]
+[Round "-"]
+[White "eoghancrowley"]
+[Black "ignaciowillats"]
+[Result "0-1"]
+[WhiteElo "804"]
+[BlackElo "1001"]
+[TimeControl "1/432000"]
+[EndDate "2020.12.01"]
+[Termination "ignaciowillats won by checkmate"]
+
+1. e4 e5 2. d4 Nc6 3. d5 Nd4 4. Nf3 Bc5 5. Nxe5 f6 6. Bf4 d6 7. Bb5+ Nxb5 8. Nf3
+Bg4 9. O-O Qe7 10. Qd3 a6 11. a4 Bxf3 12. Qxf3 Nd4 13. Qe3 Nxc2 14. Qb3 Nxa1 15.
+Qxb7 Qd8 16. Na3 Rb8 17. Qxa6 Rxb2 18. Qc6+ Qd7 19. Qa8+ Kf7 20. Nc4 Rb4 21.
+Rxa1 Rxc4 22. a5 Rxe4 23. g3 Qe8 24. Qb7 Qd7 25. a6 Bd4 26. Rc1 Re2 27. a7 Bxf2+
+28. Kf1 Bxa7 29. Kxe2 Bc5 30. Be3 Qe7 31. Rc3 Nh6 32. Kf3 g5 33. g4 f5 34. Bxg5
+Qe4+ 35. Kg3 Qxg4# 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.11.28"]
+[Round "-"]
+[White "Biblywug2020"]
+[Black "eoghancrowley"]
+[Result "1-0"]
+[WhiteElo "967"]
+[BlackElo "800"]
+[TimeControl "1/432000"]
+[EndDate "2020.11.29"]
+[Termination "Biblywug2020 won by checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. e5 Qh4 4. Nh3 Qe4+ 5. Be2 Qxg2 6. Bf3 Qxh3 7. Qd3 Nxd4 8.
+Qxd4 Qxf3 9. Rf1 c5 10. Qc4 b6 11. Nd2 Qh5 12. Qe2 Qxh2 13. Nf3 Qg2 14. Bg5 a5
+15. O-O-O Ba6 16. Qe4 Rc8 17. Rg1 Qxf2 18. Rd2 f5 19. Qf4 Be2 20. Bh4 Qxf3 21.
+Qg5 c4 22. Re1 c3 23. Rdxe2 h6 24. Qg6# 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.11.29"]
+[Round "-"]
+[White "eoghancrowley"]
+[Black "Grata95"]
+[Result "0-1"]
+[WhiteElo "769"]
+[BlackElo "806"]
+[TimeControl "1/86400"]
+[EndDate "2020.11.30"]
+[Termination "Grata95 won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d4 f6 5. Nxe5 Nxe5 6. Qh5+ g6 7. Qe2 Nxc4 8.
+Qxc4 c6 9. O-O d5 10. exd5 Qxd5 11. Qe2+ Be7 12. Qd3 Bf5 13. Qb3 Qxb3 14. axb3
+Bxc2 15. Na3 Bxb3 16. Re1 O-O-O 17. Re3 Rxd4 18. g3 Bd5 19. Re1 Bb4 20. Re8+ Kd7
+21. Bxh6 Rxh6 22. Nc2 Kxe8 23. Nxd4 Bc5 24. Re1+ Kf7 25. Nc2 f5 26. h4 g5 27.
+Ne3 Bxe3 28. fxe3 gxh4 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.06"]
+[Round "-"]
+[White "eoghancrowley"]
+[Black "ignaciowillats"]
+[Result "0-1"]
+[WhiteElo "910"]
+[BlackElo "999"]
+[TimeControl "1/432000"]
+[EndDate "2020.12.10"]
+[Termination "ignaciowillats won by resignation"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Qa4+ Nc6 5. Nf3 Bd7 6. Bg5 Nxd4 7. Qxb4 Nc2+ 8.
+Kd2 Nxb4 9. Bxd8 Rxd8 10. cxd5 Nxd5 11. Rc1 Bc6 12. Ne4 Ndf6+ 13. Ke3 Nxe4 14.
+Kf4 Ngf6 15. e3 Nxf2 16. Rg1 Nd5+ 17. Kg3 Ne4+ 18. Kh4 f6 19. Nd4 g5+ 20. Kh5
+Ke7 21. Rc2 Be8+ 22. Kh6 e5 23. Nf5+ Kf7 24. Bc4 c6 25. Bd3 Nd6 26. Ng7 Bd7 27.
+Bg6+ 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.10"]
+[Round "-"]
+[White "ignaciowillats"]
+[Black "eoghancrowley"]
+[Result "1-0"]
+[WhiteElo "990"]
+[BlackElo "904"]
+[TimeControl "1/432000"]
+[EndDate "2020.12.14"]
+[Termination "ignaciowillats won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 d6 5. d3 Nf6 6. Be3 O-O 7. O-O Nb4 8. a3
+Nc6 9. b4 Bd4 10. Bxd4 Nxd4 11. Nxd4 exd4 12. Ne2 Bg4 13. f3 Bh5 14. Nxd4 d5 15.
+Bxd5 Nxd5 16. exd5 Qxd5 17. c3 Qe5 18. Re1 Qg5 19. Qe2 Bg6 20. g4 Rfe8 21. Qxe8+
+1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.10"]
+[Round "-"]
+[White "UnoSoyYo"]
+[Black "eoghancrowley"]
+[Result "1-0"]
+[WhiteElo "1011"]
+[BlackElo "920"]
+[TimeControl "1/86400"]
+[EndDate "2020.12.13"]
+[Termination "UnoSoyYo won by checkmate"]
+
+1. c4 d5 2. f4 dxc4 3. b3 cxb3 4. axb3 Bf5 5. Nc3 Nf6 6. Nf3 Qd6 7. e3 Nc6 8.
+Be2 Nb4 9. Nb5 Qd7 10. O-O Bc2 11. Ne5 Qc8 12. Qe1 c6 13. Nd4 Bf5 14. Nxf5 Nc2
+15. Qd1 Nxa1 16. g4 e6 17. Nd4 c5 18. Ba3 cxd4 19. Bxf8 Kxf8 20. Qxa1 h5 21.
+Qa3+ Ke8 22. Bb5+ Kd8 23. Nxf7+ Kc7 24. Nxh8 Qxh8 25. Qc5+ Kd8 26. Qd6+ Kc8 27.
+Rc1# 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.10"]
+[Round "-"]
+[White "eoghancrowley"]
+[Black "subl"]
+[Result "0-1"]
+[WhiteElo "904"]
+[BlackElo "903"]
+[TimeControl "1/86400"]
+[EndDate "2020.12.14"]
+[Termination "subl won by checkmate"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e6 4. Nf3 Nh6 5. Bxc4 Nc6 6. d5 exd5 7. exd5 Na5 8.
+Bb5+ c6 9. dxc6 bxc6 10. Bd3 Bc5 11. Qe2+ Qe7 12. Bg5 f6 13. Be3 Bxe3 14. Qxe3
+Be6 15. Nd4 Bd5 16. O-O Qxe3 17. fxe3 Nc4 18. e4 Bf7 19. b3 Ne3 20. Re1 O-O-O
+21. Ba6+ Kc7 22. Nf3 Neg4 23. Nc3 Kb6 24. Bc4 Rhe8 25. Na4+ Kc7 26. Nh4 Bxc4 27.
+bxc4 Rd4 28. Nc5 Rxc4 29. Rac1 Rxc1 30. Rxc1 f5 31. exf5 Re5 32. Na6+ Kb6 33.
+Nf3 Rxf5 34. Nd4 Rf2 35. Rxc6+ Kb7 36. Nc5+ Kb8 37. Nb5 Rxa2 38. Nd6 Ra1# 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.11"]
+[Round "-"]
+[White "Dr_Zoidberg1"]
+[Black "eoghancrowley"]
+[Result "1-0"]
+[WhiteElo "925"]
+[BlackElo "915"]
+[TimeControl "1/86400"]
+[EndDate "2020.12.13"]
+[Termination "Dr_Zoidberg1 won by checkmate"]
+
+1. d4 d5 2. Nc3 e6 3. e3 Nf6 4. g4 Nc6 5. g5 Ne4 6. Nxe4 dxe4 7. h4 Bb4+ 8. c3
+Ba5 9. b4 Bb6 10. a4 a5 11. b5 Nb8 12. f3 Qd5 13. fxe4 Qxe4 14. Nf3 c6 15. bxc6
+Nxc6 16. Bd3 Qg4 17. Rg1 Qh3 18. Ra2 Bc7 19. Bf1 Qf5 20. h5 e5 21. g6 f6 22. Rf2
+Qxh5 23. Nxe5 fxe5 24. Qxh5 exd4 25. gxh7+ Kd7 26. Rxg7+ Kd6 27. Rf6+ Be6 28.
+Ba3+ Nb4 29. cxb4 axb4 30. Bxb4+ Kc6 31. Rxe6+ Bd6 32. Bg2+ Kb6 33. Rxd6+ Ka7
+34. Rxb7# 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.11"]
+[Round "-"]
+[White "eoghancrowley"]
+[Black "eyebrows11"]
+[Result "0-1"]
+[WhiteElo "906"]
+[BlackElo "1003"]
+[TimeControl "1/86400"]
+[EndDate "2020.12.12"]
+[Termination "eyebrows11 won by resignation"]
+
+1. d4 Nc6 2. d5 Ne5 3. Bf4 Nc4 4. Qd4 e5 5. Bxe5 Qe7 6. Bxc7 Qb4+ 7. c3 Qxb2 8.
+Qe5+ Nxe5 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.12"]
+[Round "-"]
+[White "eoghancrowley"]
+[Black "CaryKaren"]
+[Result "0-1"]
+[WhiteElo "891"]
+[BlackElo "993"]
+[TimeControl "1/86400"]
+[EndDate "2020.12.14"]
+[Termination "CaryKaren won by resignation"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nb6 5. Nf3 N8d7 6. Bf4 Nf6 7. e5 Nfd7 8.
+Nc3 e6 9. d5 exd5 10. Nxd5 Nxd5 11. Qxd5 Bb4+ 12. Bd2 Bxd2+ 13. Kxd2 O-O 14. Bd3
+Nb6 15. Qe4 Be6 16. h4 Bc4 17. Ng5 Qxd3+ 18. Qxd3 Bxd3 19. Kxd3 Rad8+ 20. Ke4
+Rfe8 21. Kf5 Nd7 22. e6 g6+ 23. Kg4 fxe6 24. Rhe1 e5 25. Rad1 Nf6+ 26. Kf3 Rxd1
+27. Rxd1 h5 28. Rc1 e4+ 29. Kf4 Nd5+ 30. Kg3 c6 31. a3 e3 32. Kf3 e2 33. Ne4
+Rf8+ 34. Kxe2 Nf4+ 35. Kf3 Nd3+ 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.12"]
+[Round "-"]
+[White "Keientrekker"]
+[Black "eoghancrowley"]
+[Result "1-0"]
+[WhiteElo "952"]
+[BlackElo "915"]
+[TimeControl "1/86400"]
+[EndDate "2020.12.12"]
+[Termination "Keientrekker won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 g6 4. O-O Bg7 5. d3 Nge7 6. Bg5 h6 7. Bh4 g5 8. Bg3
+d5 9. Bb3 b5 10. c4 dxc4 11. Bc2 Bf6 12. dxc4 bxc4 13. Ba4 Qd4 14. Nxd4 Bd7 15.
+Nb5 Rb8 16. Nxc7+ Kd8 17. Na6 Rxb2 18. Qd6 Bg7 19. Rd1 Nd4 20. Bxd7 Ne2+ 21. Kf1
+Rb7 22. Bc6+ Kc8 23. Bxb7+ Kxb7 24. Nc5+ 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.23"]
+[Round "-"]
+[White "sethmrn"]
+[Black "eoghancrowley"]
+[Result "1-0"]
+[WhiteElo "1018"]
+[BlackElo "958"]
+[TimeControl "1/86400"]
+[EndDate "2020.12.25"]
+[Termination "sethmrn won by checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. d3 Nf6 5. Nf3 d5 6. Bb3 Bg4 7. h3 Bh5 8. g4
+Bg6 9. Nxe5 Qe7 10. Bg5 Qxe5+ 11. Be3 d4 12. f4 Qa5 13. Qd2 dxe3 14. Qxe3+ Be7
+15. O-O-O h5 16. d4 c5 17. f5 Bh7 18. Rhe1 hxg4 19. Qxe7# 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.23"]
+[Round "-"]
+[White "Nosmeister"]
+[Black "eoghancrowley"]
+[Result "1-0"]
+[WhiteElo "954"]
+[BlackElo "986"]
+[TimeControl "1/86400"]
+[EndDate "2020.12.30"]
+[Termination "Nosmeister won by checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 f5 6. d3 Nxc3 7. bxc3 Nc6 8. d4
+b5 9. Bxb5 Bd7 10. Bxc6 Bxc6 11. Nh3 Qd7 12. Bf4 h6 13. Qh5+ Kd8 14. Ng5 Kc8 15.
+e6 Qe8 16. Qf7 Qe7 17. Qxe7 Bxe7 18. Nf7 Re8 19. O-O Ba3 20. Rfe1 Bb2 21. Rad1
+Bxc3 22. Bd2 Bxd4+ 23. Be3 Be5 24. Nxe5 Ba4 25. Rxd5 Rxe6 26. Red1 Bxc2 27. Rc1
+Be4 28. Rdc5 Re7 29. Nc6 Bxc6 30. Rxc6 Rxe3 31. Rxc7+ Kd8 32. Rxg7 Rc8 33. Rd1+
+Ke8 34. Rg8+ Kf7 35. Rxc8 Kf6 36. Kf2 Re4 37. Re1 Rf4+ 38. Kg3 Rg4+ 39. Kf3 h5
+40. g3 Kg5 41. h4+ Rxh4 42. gxh4+ Kxh4 43. Rg8 Kh3 44. Rh1# 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.26"]
+[Round "-"]
+[White "jackarenas"]
+[Black "eoghancrowley"]
+[Result "1-0"]
+[WhiteElo "1107"]
+[BlackElo "989"]
+[TimeControl "1/86400"]
+[EndDate "2020.12.30"]
+[Termination "jackarenas won by resignation"]
+
+1. d4 Nf6 2. Bf4 c5 3. c3 Qb6 4. Qb3 Nc6 5. e3 Na5 6. Qxb6 axb6 7. Nf3 Nc4 8.
+Bxc4 d5 9. Bd3 c4 10. Bc2 Ne4 11. Bxe4 dxe4 12. Nfd2 e6 13. Nxe4 Be7 14. O-O Bd7
+15. Nbd2 f5 16. Ng3 g5 17. Be5 Rf8 18. Nxc4 Bc6 19. Nxb6 Ra6 20. Nc8 Bd8 21.
+Rfe1 Kd7 22. Nd6 Bd5 23. b3 f4 24. exf4 gxf4 25. Nge4 h5 26. c4 Ba5 27. Red1 Rc6
+28. cxd5 Rc2 29. dxe6+ Kxe6 30. Nxb7 Bb6 31. Ng5+ Ke7 32. Bd6+ Ke8 33. Bxf8 Kxf8
+34. Ne6+ Ke7 35. Nxf4 Kf8 36. a4 Rc7 37. Nc5 h4 38. Nfe6+ 1-0

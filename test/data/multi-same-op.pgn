@@ -1,0 +1,188 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.11.25"]
+[Round "-"]
+[White "ignaciowillats"]
+[Black "eoghancrowley"]
+[Result "0-1"]
+[WhiteElo "1001"]
+[BlackElo "941"]
+[TimeControl "1/432000"]
+[EndDate "2020.11.27"]
+[Termination "eoghancrowley won by resignation"]
+
+1. d4 e6 2. Nf3 f5 3. Bf4 Nf6 4. e3 g6 5. Bd3 Ng4 6. h3 Nf6 7. Nc3 d6 8. Qe2 Nc6
+9. O-O-O Nb4 10. a3 a5 11. axb4 axb4 12. Bb5+ c6 13. Ba4 bxc3 14. b3 Nd5 15. Qd3
+Nb4 16. Qxc3 Na2+ 17. Kd2 Nxc3 18. Kxc3 b5 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.11.27"]
+[Round "-"]
+[White "eoghancrowley"]
+[Black "ignaciowillats"]
+[Result "0-1"]
+[WhiteElo "804"]
+[BlackElo "1001"]
+[TimeControl "1/432000"]
+[EndDate "2020.12.01"]
+[Termination "ignaciowillats won by checkmate"]
+
+1. e4 e5 2. d4 Nc6 3. d5 Nd4 4. Nf3 Bc5 5. Nxe5 f6 6. Bf4 d6 7. Bb5+ Nxb5 8. Nf3
+Bg4 9. O-O Qe7 10. Qd3 a6 11. a4 Bxf3 12. Qxf3 Nd4 13. Qe3 Nxc2 14. Qb3 Nxa1 15.
+Qxb7 Qd8 16. Na3 Rb8 17. Qxa6 Rxb2 18. Qc6+ Qd7 19. Qa8+ Kf7 20. Nc4 Rb4 21.
+Rxa1 Rxc4 22. a5 Rxe4 23. g3 Qe8 24. Qb7 Qd7 25. a6 Bd4 26. Rc1 Re2 27. a7 Bxf2+
+28. Kf1 Bxa7 29. Kxe2 Bc5 30. Be3 Qe7 31. Rc3 Nh6 32. Kf3 g5 33. g4 f5 34. Bxg5
+Qe4+ 35. Kg3 Qxg4# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.27"]
+[Round "-"]
+[White "eoghancrowley"]
+[Black "ignaciowillats"]
+[Result "1-0"]
+[WhiteElo "1108"]
+[BlackElo "780"]
+[TimeControl "600"]
+[EndTime "10:47:46 PST"]
+[Termination "eoghancrowley won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 d6 5. O-O Be6 6. Ng5 Bxc4 7. Nxf7 Bxf7 8.
+d3 Nf6 9. Bg5 Bh5 10. Qd2 h6 11. Be3 b6 12. Nb5 a6 13. d4 Nxe4 14. Qd3 exd4 15.
+Qxe4+ Kd7 16. Qf5+ Ke7 17. Qxh5 dxe3 18. fxe3 Bxe3+ 19. Kh1 axb5 20. Qf3 Bc5 21.
+Qf7# 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.01"]
+[Round "-"]
+[White "ignaciowillats"]
+[Black "eoghancrowley"]
+[Result "0-1"]
+[WhiteElo "1000"]
+[BlackElo "891"]
+[TimeControl "1/432000"]
+[EndDate "2020.12.05"]
+[Termination "eoghancrowley won by checkmate"]
+
+1. d4 e6 2. e4 c5 3. c3 Qh4 4. Bd3 d5 5. Nf3 Qh5 6. Ng5 Nf6 7. h3 h6 8. e5 c4 9.
+Be2 Qg6 10. Nf3 Qxg2 11. Rh2 Qg6 12. exf6 Bd6 13. fxg7 Qxg7 14. Rh1 Qg2 15. Kd2
+Bf4+ 16. Kc2 Qg6+ 17. Bd3 cxd3+ 18. Kb3 Bd6 19. Na3 Bd7 20. Nh4 a5 21. Nxg6 a4#
+0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.06"]
+[Round "-"]
+[White "eoghancrowley"]
+[Black "ignaciowillats"]
+[Result "0-1"]
+[WhiteElo "910"]
+[BlackElo "999"]
+[TimeControl "1/432000"]
+[EndDate "2020.12.10"]
+[Termination "ignaciowillats won by resignation"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Qa4+ Nc6 5. Nf3 Bd7 6. Bg5 Nxd4 7. Qxb4 Nc2+ 8.
+Kd2 Nxb4 9. Bxd8 Rxd8 10. cxd5 Nxd5 11. Rc1 Bc6 12. Ne4 Ndf6+ 13. Ke3 Nxe4 14.
+Kf4 Ngf6 15. e3 Nxf2 16. Rg1 Nd5+ 17. Kg3 Ne4+ 18. Kh4 f6 19. Nd4 g5+ 20. Kh5
+Ke7 21. Rc2 Be8+ 22. Kh6 e5 23. Nf5+ Kf7 24. Bc4 c6 25. Bd3 Nd6 26. Ng7 Bd7 27.
+Bg6+ 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.10"]
+[Round "-"]
+[White "ignaciowillats"]
+[Black "eoghancrowley"]
+[Result "1-0"]
+[WhiteElo "990"]
+[BlackElo "904"]
+[TimeControl "1/432000"]
+[EndDate "2020.12.14"]
+[Termination "ignaciowillats won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 d6 5. d3 Nf6 6. Be3 O-O 7. O-O Nb4 8. a3
+Nc6 9. b4 Bd4 10. Bxd4 Nxd4 11. Nxd4 exd4 12. Ne2 Bg4 13. f3 Bh5 14. Nxd4 d5 15.
+Bxd5 Nxd5 16. exd5 Qxd5 17. c3 Qe5 18. Re1 Qg5 19. Qe2 Bg6 20. g4 Rfe8 21. Qxe8+
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.11"]
+[Round "-"]
+[White "ignaciowillats"]
+[Black "eoghancrowley"]
+[Result "1-0"]
+[WhiteElo "758"]
+[BlackElo "833"]
+[TimeControl "600"]
+[EndTime "11:00:49 PST"]
+[Termination "ignaciowillats won on time"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. e3 Bb4 5. Qd2 O-O 6. a3 Ba5 7. b4 Bb6 8. Nf3
+Nc6 9. Nb5 a6 10. Nc3 a5 11. b5 Ne7 12. Na4 Ne4 13. Qd1 Ng6 14. Ng5 Nxf4 15. f3
+Nxg5 16. exf4 Nxf3+ 17. Qxf3 Bxd4 18. c3 Bf6 19. Bd3 Bh4+ 20. g3 Bf6 21. O-O Qd7
+22. Qh5 g6 23. Qg4 c6 24. Nb6 Qd6 25. Nxa8 Bxc3 26. Rac1 Qxa3 27. Nc7 e5 28. Qg5
+exf4 29. gxf4 Bd2 30. Rcd1 Qxd3 31. Qg3 Be3+ 32. Rf2 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "eoghancrowley"]
+[Black "ignaciowillats"]
+[Result "1-0"]
+[WhiteElo "912"]
+[BlackElo "979"]
+[TimeControl "1/432000"]
+[EndDate "2020.12.15"]
+[Termination "eoghancrowley won by resignation"]
+
+1. e4 e5 2. Nf3 f6 3. Nxe5 d6 4. Nf3 Nc6 5. d4 f5 6. d5 Ne5 7. Qe2 Nf6 8. exf5
+Bxf5 9. Nxe5 Nxd5 10. Nc6+ 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.15"]
+[Round "-"]
+[White "ignaciowillats"]
+[Black "eoghancrowley"]
+[Result "0-1"]
+[WhiteElo "955"]
+[BlackElo "960"]
+[TimeControl "1/432000"]
+[EndDate "2020.12.21"]
+[Termination "eoghancrowley won by resignation"]
+
+1. e4 e6 2. Nf3 g6 3. Bc4 Bg7 4. d3 g5 5. Nxg5 Qf6 6. Be3 Qxb2 7. Nd2 Qxa1 8.
+O-O Qxd1 9. Rxd1 Nc6 10. Bf4 d6 11. c3 Bd7 12. Ndf3 Bxc3 13. Rb1 O-O-O 14. Nxf7
+Bf6 15. e5 dxe5 16. Bg3 Rf8 17. Nxh8 Bxh8 18. Ng5 Nd4 19. Nxh7 Rf5 20. Bh4 Rh5
+21. g3 Rxh7 22. a4 Nf3+ 23. Kf1 Nxh4 24. gxh4 Nf6 25. h3 e4 26. a5 a6 27. dxe4
+Nxe4 28. Ke2 Nc3+ 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.21"]
+[Round "-"]
+[White "eoghancrowley"]
+[Black "ignaciowillats"]
+[Result "1-0"]
+[WhiteElo "1046"]
+[BlackElo "969"]
+[TimeControl "1/432000"]
+[EndDate "2021.01.06"]
+[Termination "eoghancrowley won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. a4 b4 8. a5 Nxe4
+9. Bd5 Bb7 10. Bxe4 d5 11. Bf5 e4 12. Ne1 Bd6 13. d3 exd3 14. Qxd3 g6 15. Bg4
+O-O 16. Qxd5 Bxh2+ 17. Kxh2 Qxd5 18. Bh6 Qe5+ 19. g3 Qxb2 20. Ra4 Rfe8 21. Nd2
+Qxc2 22. Nxc2 b3 23. Nxb3 f5 24. Bf3 Rad8 25. Nc5 Rb8 26. Nxb7 Ne5 27. Bd5+ Kh8
+28. Nd4 Ng4+ 29. Kh3 Nxh6 30. Ne6 c6 31. Bxc6 Rxe6 32. Rc4 Ng4 33. Bd7 Re7 34.
+Bc6 Ne5 35. Re1 Nxc6 36. Rxe7 Nxe7 37. Nd6 g5 38. Nf7+ Kg7 39. Nxg5 Kg6 40. Kh4
+Rb5 41. Rc7 h6 42. Nf3 Nd5 43. Rc6+ Kf7 44. Rxa6 Nc7 45. Ra7 Rc5 46. Kh5 Ke6 47.
+a6 Nb5 48. Rb7 Nd6 49. a7 Ra5 50. Rh7 Ra3 51. Rxh6+ Kd5 52. g4 f4 53. g5 Ne4 54.
+g6 Rxa7 55. Rh7 Nf6+ 56. Kh6 Rxh7+ 57. gxh7 Nxh7 58. Kxh7 Ke4 59. Ng5+ Kf5 60.
+Kh6 Kg4 61. f3+ Kg3 62. Kh5 Kf2 63. Kg4 Ke3 64. Kf5 Kd4 65. Kxf4 Kd5 66. Kf5 Kd6
+67. Kf6 1-0
